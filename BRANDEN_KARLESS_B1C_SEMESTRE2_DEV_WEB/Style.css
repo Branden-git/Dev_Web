@@ -1,0 +1,117 @@
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f6fb;
+      margin: 0;
+      padding: 40px;
+    }
+    .carte {
+      background-color: white;
+      max-width: 400px;
+      margin: auto;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .carte h1 {
+      color: #004080;
+    }
+    .carte p {
+      margin: 8px 0;
+    }
+    body {
+      font-family: sans-serif;
+      background: #f7f9fb;
+      padding: 40px;
+    }
+    .section {
+      max-width: 900px;
+      margin: auto;
+    }
+    .project {
+      background: #ffffff;
+      border-left: 5px solid #2e86de;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.05);
+    }
+    .project h4 {
+      margin-top: 0;
+      color: #2e3a59;
+    }
+    .project p {
+      margin-bottom: 5px;
+    }
+    .tag {
+      background: #0077cc;
+      color: white;
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-size: 0.8em;
+      margin-right: 5px;
+    }
+     .competences {
+      max-width: 900px;
+      margin: auto;
+    }
+    .boutons button {
+      background-color: #222e50;
+      color: white;
+      border: none;
+      margin: 5px;
+      padding: 12px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .boutons button:hover {
+      background-color: #354879;
+    }
+    #description {
+      margin-top: 20px;
+      padding: 15px;
+      background: #e1efff;
+      border-left: 4px solid #0059b3;
+      min-height: 60px;
+    }
+    #vues {
+      margin-top: 25px;
+      background: #fff7e6;
+      border-left: 4px solid #ffa500;
+      padding: 15px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      padding: 10px;
+      border: 1px solid #ccc;
+      text-align: left;
+    }
+    th {
+      background-color: #ffe0b3;
+    }
+
+    .contact-box {
+      max-width: 500px;
+      margin: auto;
+      background: #ffffff;
+      padding: 25px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .contact-box h2 {
+      margin-top: 0;
+      color: #2e3a59;
+    }
+    .contact-box p {
+      margin: 10px 0;
+      font-size: 1em;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
